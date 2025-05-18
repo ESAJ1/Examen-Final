@@ -65,7 +65,7 @@ Interactúa con el programa
 
 Ingresa tu nombre completo y número de carnet cuando se te solicite
 Inserta números enteros uno por uno
-Para finalizar, ingresa -1 o escribe exit
+Para finalizar, ingresa -1 
 
 ---
 
